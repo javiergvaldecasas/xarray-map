@@ -1,0 +1,4 @@
+xarray
+folium
+jupyterlab
+matplotlib
